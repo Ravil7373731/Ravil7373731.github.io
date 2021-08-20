@@ -2893,6 +2893,10 @@ footer p {
 	.hero_m {
 		font-size: 20px;
 	}
+	.single-hero-item set-bg {
+		height: 500px;
+		width: 320px;
+	}
 	.slicknav_menu {
 		text-align: center;
 	}
